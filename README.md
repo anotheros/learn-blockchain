@@ -1,13 +1,13 @@
 # learn-blockchain
 跟老张学习区块链
 
-[基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
+- [ ] [基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
 
-[区块链技术指南](https://github.com/yeasy/blockchain_guide)
+- [x] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
 
-[区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
+- [x] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
 
-[Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
+- [x] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
 下载app学习
 
