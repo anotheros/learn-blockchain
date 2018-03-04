@@ -7,6 +7,8 @@
 
 [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
 
+[Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
+
 下载app学习
 
 [![AppStore](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
