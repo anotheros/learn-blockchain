@@ -1,5 +1,5 @@
 # learn-blockchain
-跟老张学习区块链
+跟老张学习区块链,持续更新。。
 
 - [ ] [基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
 
@@ -10,6 +10,11 @@
 - [x] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
 
+# eth 系列
+
+- [ ] [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
+- [ ] [Solidity语言](http://www.tryblockchain.org/)
+- [ ] [Solidity语言Truffle - 以太坊Solidity编程语言开发框架](http://truffle.tryblockchain.org/)
 
 # HyperLedger 系列
 
