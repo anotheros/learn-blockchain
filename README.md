@@ -23,4 +23,8 @@
 点击链接加入群534209981 [区块链开发者交流](https://jq.qq.com/?_wv=1027&k=5T4XPec)
 下载app学习
 
+# 推荐博客 
+
+[区块链技术博客 主要eth合约](http://me.tryblockchain.org/)
+
 [![AppStore](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
