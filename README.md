@@ -25,17 +25,15 @@
 
 - [x] [以太坊源码(01)：P2P网络及节点发现机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223325&idx=1&sn=fc1b8b1240f930a9b344c14dd962c7b8)
 
-
 - [ ] [以太坊源码(02)：交易收发机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223331&idx=1&sn=ca4d56b3ea6c5dc9b9bcec5bc9dd6e65) 
 
-- [ ] [以太坊源码（03：POA委员会选举机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223351&idx=1&sn=17b6594008681fcc33f7de2ad6bfbf6f) 
+- [ ] [以太坊源码(03)：POA委员会选举机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223351&idx=1&sn=17b6594008681fcc33f7de2ad6bfbf6f) 
 
-- [ ] [以太坊源码（04：POA区块生成机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223362&idx=1&sn=58bd8ff8511f65faaff7c69ba729e32f) 
+- [ ] [以太坊源码(04)：POA区块生成机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223362&idx=1&sn=58bd8ff8511f65faaff7c69ba729e32f) 
 
-- [ ] [以太坊源码（05：网络服务分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223371&idx=1&sn=d82f0d4d9e1cba8ca87b64e4f4a0020a)
+- [ ] [以太坊源码(05)：网络服务分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223371&idx=1&sn=d82f0d4d9e1cba8ca87b64e4f4a0020a)
 
-
-- [ ] [以太坊源码（06：RLP 机制分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223377&idx=1&sn=5c8404f7e10b6d3d72c193d830f312fa) 
+- [ ] [以太坊源码(06)：RLP 机制分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223377&idx=1&sn=5c8404f7e10b6d3d72c193d830f312fa) 
 
 
 # HyperLedger 系列
