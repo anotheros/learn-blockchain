@@ -1,54 +1,53 @@
-# learn-blockchain
-跟老张学习区块链,持续更新。。
+# 学习区块链 写给产品和开发的一本区块链书
 
-- [ ] 为未读
-- [x] 为已读
+开始写书。
 
-------
+各位感兴趣的先star，让我看到热情。（我在骗star吗？那么多人star 不写都不行吧。）
 
-- [ ] [基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
-
-- [x] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
-
-- [x] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
-
-- [x] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
+还没开始写，先看我推荐的其他人写的博客之类内容 
+[点这里](./recom.md)
 
 
-# eth 系列
+## 0.适用读者和阅读前的准备
 
-- [ ] [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
-- [ ] [Solidity语言](http://www.tryblockchain.org/)
-- [ ] [Solidity语言Truffle - 以太坊Solidity编程语言开发框架](http://truffle.tryblockchain.org/)
+## 1.什么是区块链，区块链能解决什么问题。
 
-## eth 源码分析
+货币的本质。
+ 
+数字资产
+ 
+## 2.为什么要去中心化
+
+常见的去中心化方案。
+
+网络的去中心化，维基百科。
+
+p2p kad bt下载。
+
+## 3 eth 介绍
+
+eth原理。
+
+eth未来发展，sharding gas降低
+
+## 4 ipfs 介绍
+
+## 5 共识机制。
+
+## 6 暗网介绍
+
+## 7 区块链游戏
+
+## 8 共享计算
+
+无需服务器，使用区块链计算实现 baas 。只需要写客户端 js，ios Android 或者其他平台的应用程序 即可。
+
+## 9 我的世界，第二人生
+实现 头号玩家里的绿洲
+
+## 10 社会主义实现 人人平等
 
 
-- [ ] [以太坊源码 很全](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
-
------
-
-- [x] [以太坊源码(01)：P2P网络及节点发现机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223325&idx=1&sn=fc1b8b1240f930a9b344c14dd962c7b8)
-
-- [ ] [以太坊源码(02)：交易收发机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223331&idx=1&sn=ca4d56b3ea6c5dc9b9bcec5bc9dd6e65) 
-
-- [ ] [以太坊源码(03)：POA委员会选举机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223351&idx=1&sn=17b6594008681fcc33f7de2ad6bfbf6f) 
-
-- [ ] [以太坊源码(04)：POA区块生成机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223362&idx=1&sn=58bd8ff8511f65faaff7c69ba729e32f) 
-
-- [ ] [以太坊源码(05)：网络服务分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223371&idx=1&sn=d82f0d4d9e1cba8ca87b64e4f4a0020a)
-
-- [ ] [以太坊源码(06)：RLP 机制分析](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223377&idx=1&sn=5c8404f7e10b6d3d72c193d830f312fa) 
-
-
-# HyperLedger 系列
-
-- [ ] [Hyperledger Fabric 1.0 从零开始](https://www.cnblogs.com/aberic/p/7527831.html)
-
-
-# 推荐博客 
-
-[区块链技术博客 主要eth合约](http://me.tryblockchain.org/)
 
 # 其他
 
@@ -60,3 +59,4 @@
 
 
 [![AppStore](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
+
