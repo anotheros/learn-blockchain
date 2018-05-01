@@ -5,18 +5,25 @@
 各位感兴趣的先star，让我看到热情。（我在骗star吗？那么多人star 不写都不行吧。）
 
 还没开始写，先看我推荐的其他人写的博客之类内容 
-[点这里](./article/recom.md)
+[点这里](./recom.md)
 
 电报订阅一下，每天推荐文章。 [点这里](https://t.me/quannei)
 
 
+跟老张学习区块链,持续更新。。
+
+- [ ] 为未写
+- [x] 为已写
+
 ## 0.写作背景 适用读者和阅读前的准备
 
-0.1 [写作背景](./article/01.md)
+- [x] 0.1 [写作背景](./article/01.md)
 
-0.2 [适用读者和阅读前的准备](./article/02.md)
+- [x] 0.2 [适用读者和阅读前的准备](./article/02.md)
 
 ## 1.什么是区块链，区块链能解决什么问题。
+
+- [x] 1.0 [一个故事](./article/10.md)
 
 货币的本质。
  
@@ -71,9 +78,11 @@ ca
 
 ### 分布式的概念 
 
-一致性等 
+- [ ] cap原理
 
-cap原理
+- [ ] 一致性等 
+
+
 
 
 ## 4.共识机制
@@ -115,7 +124,7 @@ eth未来发展，侧链，sharding gas降低
 
 # 其他
 
-我的网站 [圈内人士](http://100000p.com/) 注册送800 cc代币。
+我的网站 [圈内人士](http://100000p.com/) 。
 
 点击链接加入群534209981 [区块链开发者交流](https://jq.qq.com/?_wv=1027&k=5T4XPec)
 下载app学习
@@ -123,4 +132,9 @@ eth未来发展，侧链，sharding gas降低
 
 
 [![AppStore](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
+
+
+本书定价39元，我拿10%版税。
+
+![3.9](./3.9.png)
 
