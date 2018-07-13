@@ -95,6 +95,8 @@ pow，pos，dpos，poa，拜占庭  zookeeper
 
 ## 5 eth 介绍
 
+eth环境的搭建
+
 eth原理。
 
 eth未来发展，侧链，sharding gas降低
@@ -105,6 +107,7 @@ eth未来发展，侧链，sharding gas降低
 
 ## 7 ipfs 介绍
 
+ipfs环境搭建
 
 
 ## 8 暗网介绍
