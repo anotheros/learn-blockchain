@@ -108,6 +108,7 @@ eth未来发展，侧链，sharding gas降低
 ## 7 ipfs 介绍
 
 ipfs环境搭建
+- [x] 7.1 [ipfs环境搭建](./article/71.md)
 
 
 ## 8 暗网介绍
