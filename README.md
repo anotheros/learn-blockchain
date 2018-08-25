@@ -142,19 +142,4 @@ ipfs环境搭建
 
 
 
-# 其他
-
-我的网站 [圈内人士](http://100000p.com/) 。
-
-点击链接加入群534209981 [区块链开发者交流](https://jq.qq.com/?_wv=1027&k=5T4XPec)
-下载app学习
-
-
-
-[![AppStore](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
-
-
-本书定价39元，我拿10%版税。
-
-![3.9](./3.9.png)
 
