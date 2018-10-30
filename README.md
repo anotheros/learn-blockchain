@@ -142,4 +142,12 @@ ipfs环境搭建
 
 
 
+# 其他
 
+ [区块链文章精选](http://100000p.com/) 。
+
+
+
+
+
+ [![区块链文章精选app](http://p00001.oss-cn-hongkong.aliyuncs.com/badge-download-on-the-app-store-cn.svg)](https://itunes.apple.com/cn/app/id1348577356)
